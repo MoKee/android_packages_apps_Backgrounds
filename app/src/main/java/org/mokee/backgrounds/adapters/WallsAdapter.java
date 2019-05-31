@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.adapters;
+package org.mokee.backgrounds.adapters;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -22,13 +22,13 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.lineageos.backgrounds.R;
-import org.lineageos.backgrounds.bundle.WallpaperBundle;
-import org.lineageos.backgrounds.bundle.WallpaperType;
-import org.lineageos.backgrounds.holders.UserHolder;
-import org.lineageos.backgrounds.holders.WallpaperHolder;
-import org.lineageos.backgrounds.ui.SelectionInterface;
-import org.lineageos.backgrounds.util.TypeConverter;
+import org.mokee.backgrounds.R;
+import org.mokee.backgrounds.bundle.WallpaperBundle;
+import org.mokee.backgrounds.bundle.WallpaperType;
+import org.mokee.backgrounds.holders.UserHolder;
+import org.mokee.backgrounds.holders.WallpaperHolder;
+import org.mokee.backgrounds.ui.SelectionInterface;
+import org.mokee.backgrounds.util.TypeConverter;
 
 import java.util.ArrayList;
 import java.util.List;

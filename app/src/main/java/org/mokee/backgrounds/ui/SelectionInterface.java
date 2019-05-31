@@ -13,12 +13,22 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.bundle;
+package org.mokee.backgrounds.ui;
 
-public enum WallpaperType {
-    BUILT_IN,
-    DEFAULT,
-    GRADIENT,
-    MONO,
-    USER
+import android.view.View;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
+import org.mokee.backgrounds.bundle.WallpaperBundle;
+
+public interface SelectionInterface {
+
+    /**
+     * Callback for wallpaper click
+     *
+     * @param bundle if null, it means that wallpaper must be fetched from the sdcard
+     */
+    void onWallpaperSelected(@NonNull View view,
+                             @Nullable WallpaperBundle bundle);
 }

@@ -15,7 +15,7 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.lineageos.backgrounds">
+    package="org.mokee.backgrounds">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
@@ -47,7 +47,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="org.lineageos.backgrounds.files"
+            android:authorities="org.mokee.backgrounds.files"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

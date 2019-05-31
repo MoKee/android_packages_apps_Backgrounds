@@ -13,37 +13,26 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.factory;
+package org.mokee.backgrounds.factory;
 
-import android.app.WallpaperManager;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
 
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
 
-import org.lineageos.backgrounds.R;
-import org.lineageos.backgrounds.bundle.WallpaperBundle;
-import org.lineageos.backgrounds.bundle.WallpaperType;
+import org.mokee.backgrounds.bundle.WallpaperBundle;
+import org.mokee.backgrounds.bundle.WallpaperType;
 
-public final class BuiltInWallpaperFactory {
+public final class GradientWallpaperFactory {
 
-    private BuiltInWallpaperFactory() {
+    private GradientWallpaperFactory() {
     }
 
     public static WallpaperBundle build(@NonNull final String name,
                                         @NonNull final Resources res,
                                         @DrawableRes final int drawableRes) {
         Drawable drawable = res.getDrawable(drawableRes, res.newTheme());
-        return new WallpaperBundle(name, drawable, drawableRes, WallpaperType.BUILT_IN);
-    }
-
-    public static WallpaperBundle buildDefault(@NonNull Resources res,
-                                               @NonNull WallpaperManager manager) {
-        final String name = res.getString(R.string.wallpaper_built_in_system);
-        final Drawable drawable = manager.getBuiltInDrawable();
-
-        return new WallpaperBundle(name, drawable,
-                WallpaperBundle.DESCRIPTOR_EMPTY, WallpaperType.DEFAULT);
+        return new WallpaperBundle(name, drawable, drawableRes, WallpaperType.GRADIENT);
     }
 }

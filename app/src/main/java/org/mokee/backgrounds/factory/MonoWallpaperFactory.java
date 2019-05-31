@@ -13,26 +13,23 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.holders;
+package org.mokee.backgrounds.factory;
 
-import android.view.View;
+import android.graphics.drawable.ColorDrawable;
 
+import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 
-import org.lineageos.backgrounds.bundle.WallpaperBundle;
-import org.lineageos.backgrounds.ui.SelectionInterface;
+import org.mokee.backgrounds.bundle.WallpaperBundle;
+import org.mokee.backgrounds.bundle.WallpaperType;
 
-public final class UserHolder extends WallpaperHolder {
+public final class MonoWallpaperFactory {
 
-    public UserHolder(@NonNull final View itemView,
-                      @NonNull final SelectionInterface callback) {
-        super(itemView, callback);
+    private MonoWallpaperFactory() {
     }
 
-    @Override
-    public void bind(@NonNull final WallpaperBundle bundle) {
-        super.bind(bundle);
-
-        itemView.setOnClickListener(v -> callback.onWallpaperSelected(previewView, null));
+    public static WallpaperBundle build(@NonNull String name,
+                                        @ColorInt final int color) {
+        return new WallpaperBundle(name, new ColorDrawable(color), color, WallpaperType.MONO);
     }
 }

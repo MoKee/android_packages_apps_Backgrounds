@@ -13,23 +13,29 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.factory;
+package org.mokee.backgrounds.util;
 
-import android.graphics.drawable.ColorDrawable;
+import android.view.View;
+import android.view.Window;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 
-import org.lineageos.backgrounds.bundle.WallpaperBundle;
-import org.lineageos.backgrounds.bundle.WallpaperType;
+public final class UiUtils {
 
-public final class MonoWallpaperFactory {
-
-    private MonoWallpaperFactory() {
+    private UiUtils() {
     }
 
-    public static WallpaperBundle build(@NonNull String name,
-                                        @ColorInt final int color) {
-        return new WallpaperBundle(name, new ColorDrawable(color), color, WallpaperType.MONO);
+    public static void setStatusBarColor(@NonNull final Window window, @ColorInt final int color) {
+        window.setStatusBarColor(color);
+        final boolean isLight = ColorUtils.isColorLight(color);
+        int flags = window.getDecorView().getSystemUiVisibility();
+        if (isLight) {
+            flags |= View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR;
+        } else {
+            flags &= ~View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR;
+        }
+
+        window.getDecorView().setSystemUiVisibility(flags);
     }
 }

@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.lineageos.backgrounds.adapters;
+package org.mokee.backgrounds.adapters;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 
-import org.lineageos.backgrounds.bundle.WallpaperBundle;
+import org.mokee.backgrounds.bundle.WallpaperBundle;
 
 import java.util.List;
 
