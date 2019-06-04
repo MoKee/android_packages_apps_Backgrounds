@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">Обои</string>
     <string name="main_loading">Загрузка\u2026</string>
+    <string name="main_wallpaper_pick">Ваши изображения</string>
+    <string name="apply_both_action">Домашний экран и экран блокировки</string>
     <string name="apply_home_action">Домашний экран</string>
     <string name="apply_lock_action">Экран блокировки</string>
+    <string name="apply_success">Обои установлены</string>
+    <string name="apply_failure">Невозможно установить эти обои</string>
     <string name="apply_close">Закрыть</string>
     <string name="wallpaper_mono_black">Чёрная</string>
     <string name="wallpaper_mono_blue">Синий</string>
+    <string name="wallpaper_mono_brown">Коричневый</string>
     <string name="wallpaper_mono_cyan">Голубой</string>
     <string name="wallpaper_mono_green">Зелёный</string>
+    <string name="wallpaper_mono_orange">Оранжевый</string>
+    <string name="wallpaper_mono_pink">Розовый</string>
+    <string name="wallpaper_mono_purple">Фиолетовый</string>
     <string name="wallpaper_mono_red">Красный</string>
     <string name="wallpaper_mono_teal">Бирюзовый</string>
+    <string name="wallpaper_mono_white">Белый</string>
+    <string name="wallpaper_mono_yellow">Жёлтый</string>
+    <string name="wallpaper_gradient_iron">Железный</string>
+    <string name="wallpaper_gradient_leaf">Лист</string>
+    <string name="wallpaper_gradient_lemon">Лимон</string>
     <string name="wallpaper_gradient_neon">Неон</string>
+    <string name="wallpaper_gradient_ocean">Океан</string>
+    <string name="wallpaper_gradient_orange">Оранжевый</string>
+    <string name="wallpaper_gradient_peach">Персик</string>
+    <string name="wallpaper_gradient_plum">Сливовый</string>
+    <string name="wallpaper_gradient_shine">Сияние</string>
 </resources>

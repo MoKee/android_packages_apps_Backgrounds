@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">Háttérképek</string>
     <string name="main_loading">Betöltés\u2026</string>
+    <string name="main_wallpaper_pick">Az Ön saját képei</string>
+    <string name="apply_both_action">Kezdő és záróképernyő</string>
     <string name="apply_home_action">Főképernyő</string>
     <string name="apply_lock_action">Záróképernyő</string>
+    <string name="apply_success">A háttérkép beállítva</string>
+    <string name="apply_failure">Ezt a háttérképet nem lehet beállítani</string>
     <string name="apply_close">Bezárás</string>
     <string name="wallpaper_mono_black">Fekete</string>
     <string name="wallpaper_mono_blue">Kék</string>
+    <string name="wallpaper_mono_brown">Barna</string>
     <string name="wallpaper_mono_cyan">Zöldeskék</string>
     <string name="wallpaper_mono_green">Zöld</string>
+    <string name="wallpaper_mono_orange">Narancs</string>
+    <string name="wallpaper_mono_pink">Rózsaszín</string>
+    <string name="wallpaper_mono_purple">Lila</string>
     <string name="wallpaper_mono_red">Vörös</string>
     <string name="wallpaper_mono_teal">Pávakék</string>
+    <string name="wallpaper_mono_white">Fehér</string>
+    <string name="wallpaper_mono_yellow">Sárga</string>
+    <string name="wallpaper_gradient_iron">Vas</string>
+    <string name="wallpaper_gradient_leaf">Falevél</string>
+    <string name="wallpaper_gradient_lemon">Citrom</string>
     <string name="wallpaper_gradient_neon">Neon</string>
+    <string name="wallpaper_gradient_ocean">Óceán</string>
+    <string name="wallpaper_gradient_orange">Narancs</string>
+    <string name="wallpaper_gradient_peach">Őszibarack</string>
+    <string name="wallpaper_gradient_plum">Szilva</string>
+    <string name="wallpaper_gradient_shine">Ragyogó</string>
 </resources>
