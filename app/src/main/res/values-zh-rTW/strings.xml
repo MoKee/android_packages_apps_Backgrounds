@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">桌布</string>
     <string name="main_loading">正在讀取\u2026</string>
+    <string name="main_wallpaper_pick">你的圖片</string>
+    <string name="apply_both_action">桌面和鎖定螢幕</string>
     <string name="apply_home_action">主畫面</string>
     <string name="apply_lock_action">鎖定畫面</string>
+    <string name="apply_success">桌布已套用</string>
+    <string name="apply_failure">無法套用此桌布</string>
     <string name="apply_close">關閉</string>
     <string name="wallpaper_mono_black">黑色主題</string>
     <string name="wallpaper_mono_blue">藍色</string>
+    <string name="wallpaper_mono_brown">棕色</string>
     <string name="wallpaper_mono_cyan">青色</string>
     <string name="wallpaper_mono_green">綠色</string>
+    <string name="wallpaper_mono_orange">橘色</string>
+    <string name="wallpaper_mono_pink">粉紅色</string>
+    <string name="wallpaper_mono_purple">紫色</string>
     <string name="wallpaper_mono_red">紅色</string>
     <string name="wallpaper_mono_teal">藍綠色</string>
+    <string name="wallpaper_mono_white">白色</string>
+    <string name="wallpaper_mono_yellow">黃色</string>
+    <string name="wallpaper_gradient_iron">鐵</string>
+    <string name="wallpaper_gradient_leaf">葉子</string>
+    <string name="wallpaper_gradient_lemon">檸檬</string>
     <string name="wallpaper_gradient_neon">霓紅燈</string>
+    <string name="wallpaper_gradient_ocean">海洋</string>
+    <string name="wallpaper_gradient_orange">橘色</string>
+    <string name="wallpaper_gradient_peach">桃色</string>
+    <string name="wallpaper_gradient_plum">梅紅色</string>
+    <string name="wallpaper_gradient_shine">陽光</string>
 </resources>
