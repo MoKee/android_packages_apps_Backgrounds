@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">الخلفيات</string>
     <string name="main_loading">تحميل...</string>
+    <string name="main_wallpaper_pick">صورك</string>
+    <string name="apply_both_action">الرئيسية وشاشة القفل</string>
     <string name="apply_home_action">الشاشة الرئيسية</string>
     <string name="apply_lock_action">قفل الشاشة</string>
+    <string name="apply_success">تم تطبيق الخلفية</string>
+    <string name="apply_failure">غير قادر على تعيين هذه الخلفية</string>
     <string name="apply_close">إغلاق</string>
     <string name="wallpaper_mono_black">أسود</string>
     <string name="wallpaper_mono_blue"/>
+    <string name="wallpaper_mono_brown">بني</string>
     <string name="wallpaper_mono_cyan">سماوي</string>
     <string name="wallpaper_mono_green"/>
+    <string name="wallpaper_mono_orange">برتقالي</string>
+    <string name="wallpaper_mono_pink">وردي</string>
+    <string name="wallpaper_mono_purple">أرجواني</string>
     <string name="wallpaper_mono_red"/>
     <string name="wallpaper_mono_teal">أزرق مخضّر</string>
+    <string name="wallpaper_mono_white">أبيض</string>
+    <string name="wallpaper_mono_yellow">أصفر</string>
+    <string name="wallpaper_gradient_iron">الحديد</string>
+    <string name="wallpaper_gradient_leaf">ورقة الشجر</string>
+    <string name="wallpaper_gradient_lemon">ليمون</string>
     <string name="wallpaper_gradient_neon">نيون</string>
+    <string name="wallpaper_gradient_ocean">محيط</string>
+    <string name="wallpaper_gradient_orange">برتقالي</string>
+    <string name="wallpaper_gradient_peach">خوخ</string>
+    <string name="wallpaper_gradient_plum">برقوقي</string>
+    <string name="wallpaper_gradient_shine">لامع</string>
 </resources>
