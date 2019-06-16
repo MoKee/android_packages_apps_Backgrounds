@@ -18,14 +18,23 @@
 <resources>
     <string name="app_name">Wallpaper</string>
     <string name="main_loading">Memuat\u2026</string>
+    <string name="apply_both_action">Layar utama &amp; layar kunci</string>
     <string name="apply_home_action">Layar utama</string>
     <string name="apply_lock_action">Layar kunci</string>
+    <string name="apply_success">Wallpaper diterapkan</string>
     <string name="apply_close">Tutup</string>
     <string name="wallpaper_mono_black">Hitam</string>
     <string name="wallpaper_mono_blue">Biru</string>
+    <string name="wallpaper_mono_brown">Cokelat</string>
     <string name="wallpaper_mono_cyan">Biru</string>
     <string name="wallpaper_mono_green">Hijau</string>
+    <string name="wallpaper_mono_orange">Oranye</string>
+    <string name="wallpaper_mono_pink">Merah muda</string>
+    <string name="wallpaper_mono_purple">Ungu</string>
     <string name="wallpaper_mono_red">Merah</string>
     <string name="wallpaper_mono_teal">Hijau kebiruan</string>
+    <string name="wallpaper_mono_white">Putih</string>
+    <string name="wallpaper_mono_yellow">Kuning</string>
     <string name="wallpaper_gradient_neon">Neon</string>
+    <string name="wallpaper_gradient_orange">Oranye</string>
 </resources>
