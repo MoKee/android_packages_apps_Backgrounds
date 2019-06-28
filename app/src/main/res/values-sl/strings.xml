@@ -18,6 +18,7 @@
 <resources>
     <string name="app_name">Ozadja</string>
     <string name="main_loading">Nalaganje \u2026</string>
+    <string name="main_wallpaper_pick">Vaše slike</string>
     <string name="apply_home_action">Domači zaslon</string>
     <string name="apply_lock_action">Zaklenjen zaslon</string>
     <string name="apply_close">Zapri</string>
