@@ -19,7 +19,7 @@
     <string name="app_name">桌布</string>
     <string name="main_loading">載入中\u2026</string>
     <string name="main_wallpaper_pick">你的圖片</string>
-    <string name="apply_both_action">桌面和鎖定螢幕</string>
+    <string name="apply_both_action">桌面及鎖定畫面</string>
     <string name="apply_home_action">主畫面</string>
     <string name="apply_lock_action">鎖定畫面</string>
     <string name="apply_success">桌布已套用</string>
