@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">Tapety</string>
     <string name="main_loading">Nahrávanie\u2026</string>
+    <string name="main_wallpaper_pick">Vaše obrázky</string>
+    <string name="apply_both_action">Domovská &amp; uzamknutá obrazovka</string>
     <string name="apply_home_action">Domovská obrazovka</string>
     <string name="apply_lock_action">Obrazovka uzamknutia</string>
+    <string name="apply_success">Tapeta bola použitá</string>
+    <string name="apply_failure">Nepodarilo sa nastaviť túto tapetu</string>
     <string name="apply_close">Zavrieť</string>
     <string name="wallpaper_mono_black">Čierna</string>
     <string name="wallpaper_mono_blue">Modrá</string>
+    <string name="wallpaper_mono_brown">Hnedá</string>
     <string name="wallpaper_mono_cyan">Azúrová</string>
     <string name="wallpaper_mono_green">Zelená</string>
+    <string name="wallpaper_mono_orange">Oranžová</string>
+    <string name="wallpaper_mono_pink">Ružová</string>
+    <string name="wallpaper_mono_purple">Fialová</string>
     <string name="wallpaper_mono_red">Červená</string>
-    <string name="wallpaper_mono_teal">Modrozelená</string>
+    <string name="wallpaper_mono_teal">Zelenomodrá</string>
+    <string name="wallpaper_mono_white">Biela</string>
+    <string name="wallpaper_mono_yellow">Žltá</string>
+    <string name="wallpaper_gradient_iron">Železo</string>
+    <string name="wallpaper_gradient_leaf">List</string>
+    <string name="wallpaper_gradient_lemon">Citrón</string>
     <string name="wallpaper_gradient_neon">Neón</string>
+    <string name="wallpaper_gradient_ocean">Oceán</string>
+    <string name="wallpaper_gradient_orange">Oranžová</string>
+    <string name="wallpaper_gradient_peach">Broskyňová</string>
+    <string name="wallpaper_gradient_plum">Slivková</string>
+    <string name="wallpaper_gradient_shine">Lesk</string>
 </resources>
