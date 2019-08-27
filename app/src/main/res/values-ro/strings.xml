@@ -26,5 +26,6 @@
     <string name="wallpaper_mono_cyan">Cyan</string>
     <string name="wallpaper_mono_green">Verde</string>
     <string name="wallpaper_mono_red">Roșu</string>
+    <string name="wallpaper_mono_teal">Turcoaz</string>
     <string name="wallpaper_gradient_neon">Neon</string>
 </resources>
