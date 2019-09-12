@@ -18,11 +18,14 @@
 <resources>
     <string name="app_name">Позадине</string>
     <string name="main_loading">Учитавам\u2026</string>
+    <string name="apply_home_action">Главни екран</string>
+    <string name="apply_lock_action">Закључан екран</string>
     <string name="apply_close">Затвори</string>
     <string name="wallpaper_mono_black">Црно</string>
     <string name="wallpaper_mono_blue">Плава</string>
     <string name="wallpaper_mono_cyan">Морско плава</string>
     <string name="wallpaper_mono_green">Зелена</string>
     <string name="wallpaper_mono_red">Црвена</string>
+    <string name="wallpaper_mono_teal">Светло плава</string>
     <string name="wallpaper_gradient_neon">Неон</string>
 </resources>
