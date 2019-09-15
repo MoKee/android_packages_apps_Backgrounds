@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">Позадине</string>
     <string name="main_loading">Учитавам\u2026</string>
+    <string name="main_wallpaper_pick">Ваше слике</string>
+    <string name="apply_both_action">Почетак и закључани екран</string>
     <string name="apply_home_action">Главни екран</string>
     <string name="apply_lock_action">Закључан екран</string>
+    <string name="apply_success">Позадина је намештена</string>
+    <string name="apply_failure">Немогуће је поставити ову позадину</string>
     <string name="apply_close">Затвори</string>
     <string name="wallpaper_mono_black">Црно</string>
     <string name="wallpaper_mono_blue">Плава</string>
+    <string name="wallpaper_mono_brown">Смеђа</string>
     <string name="wallpaper_mono_cyan">Морско плава</string>
     <string name="wallpaper_mono_green">Зелена</string>
+    <string name="wallpaper_mono_orange">Наранџаста</string>
+    <string name="wallpaper_mono_pink">Ружичаста</string>
+    <string name="wallpaper_mono_purple">Љубичаста</string>
     <string name="wallpaper_mono_red">Црвена</string>
     <string name="wallpaper_mono_teal">Светло плава</string>
+    <string name="wallpaper_mono_white">Бела</string>
+    <string name="wallpaper_mono_yellow">Жута</string>
+    <string name="wallpaper_gradient_iron">Гвожђе</string>
+    <string name="wallpaper_gradient_leaf">Лист</string>
+    <string name="wallpaper_gradient_lemon">Лимун</string>
     <string name="wallpaper_gradient_neon">Неон</string>
+    <string name="wallpaper_gradient_ocean">Океан</string>
+    <string name="wallpaper_gradient_orange">Наранџаста</string>
+    <string name="wallpaper_gradient_peach">Бресква</string>
+    <string name="wallpaper_gradient_plum">Шљива</string>
+    <string name="wallpaper_gradient_shine">Сјајно</string>
 </resources>
