@@ -18,6 +18,7 @@
 <resources>
     <string name="app_name">Hintergründe</string>
     <string name="main_loading">Wird geladen\u2026</string>
+    <string name="main_wallpaper_pick">Ihre Bilder</string>
     <string name="apply_home_action">Startbildschirm</string>
     <string name="apply_lock_action">Bildschirmsperre</string>
     <string name="apply_close">Schließen</string>
