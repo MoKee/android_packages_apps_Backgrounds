@@ -23,5 +23,6 @@
     <string name="wallpaper_mono_cyan">Svijetlo plava</string>
     <string name="wallpaper_mono_green">Zeleno</string>
     <string name="wallpaper_mono_red">Crveno</string>
+    <string name="wallpaper_mono_teal">Grogotovac</string>
     <string name="wallpaper_gradient_neon">Neonsko</string>
 </resources>
