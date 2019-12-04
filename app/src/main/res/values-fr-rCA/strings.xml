@@ -18,14 +18,32 @@
 <resources>
     <string name="app_name">Fonds d\'écran</string>
     <string name="main_loading">Chargement\u2026</string>
+    <string name="main_wallpaper_pick">Vos images</string>
+    <string name="apply_both_action">Écran d\'accueil &amp; écran de déverrouillage</string>
     <string name="apply_home_action">Écran d\'accueil</string>
     <string name="apply_lock_action">Écran de verrouillage</string>
+    <string name="apply_success">Fond d\'écran appliqué</string>
+    <string name="apply_failure">Impossible de définir le fond d’écran</string>
     <string name="apply_close">Fermer</string>
     <string name="wallpaper_mono_black">Noir</string>
     <string name="wallpaper_mono_blue">Bleu</string>
+    <string name="wallpaper_mono_brown">Brun</string>
     <string name="wallpaper_mono_cyan">Cyan</string>
     <string name="wallpaper_mono_green">Vert</string>
+    <string name="wallpaper_mono_orange">Orange</string>
+    <string name="wallpaper_mono_pink">Rose</string>
+    <string name="wallpaper_mono_purple">Mauve</string>
     <string name="wallpaper_mono_red">Rouge</string>
     <string name="wallpaper_mono_teal">Turquoise</string>
+    <string name="wallpaper_mono_white">Blanc</string>
+    <string name="wallpaper_mono_yellow">Jaune</string>
+    <string name="wallpaper_gradient_iron">Fer</string>
+    <string name="wallpaper_gradient_leaf">Feuille</string>
+    <string name="wallpaper_gradient_lemon">Citron</string>
     <string name="wallpaper_gradient_neon">Néon</string>
+    <string name="wallpaper_gradient_ocean">Océan</string>
+    <string name="wallpaper_gradient_orange">Orange</string>
+    <string name="wallpaper_gradient_peach">Pêche</string>
+    <string name="wallpaper_gradient_plum">Prune</string>
+    <string name="wallpaper_gradient_shine">Éclat</string>
 </resources>
