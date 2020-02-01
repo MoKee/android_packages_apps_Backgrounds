@@ -18,13 +18,32 @@
 <resources>
     <string name="app_name">Фонові малюнки</string>
     <string name="main_loading">Завантаження\u2026</string>
+    <string name="main_wallpaper_pick">Ваші зображення</string>
+    <string name="apply_both_action">Домашній екран та екран блокування</string>
     <string name="apply_home_action">Домашній екран</string>
     <string name="apply_lock_action">Екран блокування</string>
+    <string name="apply_success">Зображення встановлено</string>
+    <string name="apply_failure">Не вдається встановити це зображення</string>
     <string name="apply_close">Закрити</string>
     <string name="wallpaper_mono_black">Чорна</string>
     <string name="wallpaper_mono_blue">Синій</string>
+    <string name="wallpaper_mono_brown">Коричневий</string>
     <string name="wallpaper_mono_cyan">Блакитний</string>
     <string name="wallpaper_mono_green">Зелений</string>
+    <string name="wallpaper_mono_orange">Помаранчевий</string>
+    <string name="wallpaper_mono_pink">Рожевий</string>
+    <string name="wallpaper_mono_purple">Пурпурний</string>
     <string name="wallpaper_mono_red">Червоний</string>
+    <string name="wallpaper_mono_teal">Зелено-блакитний</string>
+    <string name="wallpaper_mono_white">Білий</string>
+    <string name="wallpaper_mono_yellow">Жовтий</string>
+    <string name="wallpaper_gradient_iron">Залізо</string>
+    <string name="wallpaper_gradient_leaf">Лист</string>
+    <string name="wallpaper_gradient_lemon">Лимон</string>
     <string name="wallpaper_gradient_neon">Неон</string>
+    <string name="wallpaper_gradient_ocean">Океан</string>
+    <string name="wallpaper_gradient_orange">Помаранчевий</string>
+    <string name="wallpaper_gradient_peach">Персик</string>
+    <string name="wallpaper_gradient_plum">Сливовий</string>
+    <string name="wallpaper_gradient_shine">Блиск</string>
 </resources>
