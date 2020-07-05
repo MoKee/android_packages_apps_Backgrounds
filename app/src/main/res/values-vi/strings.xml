@@ -17,14 +17,32 @@
 <resources>
     <string name="app_name">Hình nền</string>
     <string name="main_loading">Đang tải\u2026</string>
+    <string name="main_wallpaper_pick">Hình ảnh của bạn</string>
+    <string name="apply_both_action">Màn hình chính &amp; màn hình khóa</string>
     <string name="apply_home_action">Màn hình chủ</string>
     <string name="apply_lock_action">Màn hình khóa</string>
+    <string name="apply_success">Đã áp dụng hình nền</string>
+    <string name="apply_failure">Không thể đặt hình nền này</string>
     <string name="apply_close">Đóng</string>
     <string name="wallpaper_mono_black">Đen</string>
     <string name="wallpaper_mono_blue">Lam</string>
+    <string name="wallpaper_mono_brown">Nâu</string>
     <string name="wallpaper_mono_cyan">Lục lam</string>
     <string name="wallpaper_mono_green">Lục</string>
+    <string name="wallpaper_mono_orange">Cam</string>
+    <string name="wallpaper_mono_pink">Màu hồng</string>
+    <string name="wallpaper_mono_purple">Màu tím</string>
     <string name="wallpaper_mono_red">Đỏ</string>
     <string name="wallpaper_mono_teal">Lục lam</string>
+    <string name="wallpaper_mono_white">Trắng</string>
+    <string name="wallpaper_mono_yellow">Vàng</string>
+    <string name="wallpaper_gradient_iron">Sắt</string>
+    <string name="wallpaper_gradient_leaf">Lá</string>
+    <string name="wallpaper_gradient_lemon">Chanh</string>
     <string name="wallpaper_gradient_neon">Neon</string>
+    <string name="wallpaper_gradient_ocean">Đại dương</string>
+    <string name="wallpaper_gradient_orange">Cam</string>
+    <string name="wallpaper_gradient_peach">Đào</string>
+    <string name="wallpaper_gradient_plum">Mận</string>
+    <string name="wallpaper_gradient_shine">Toả sáng</string>
 </resources>

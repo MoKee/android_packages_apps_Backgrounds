@@ -17,14 +17,32 @@
 <resources>
     <string name="app_name">Imagens de fundo</string>
     <string name="main_loading">A carregar\u2026</string>
+    <string name="main_wallpaper_pick">As suas imagens</string>
+    <string name="apply_both_action">Ecrã inicial e ecrã de bloqueio</string>
     <string name="apply_home_action">Ecrã Principal</string>
     <string name="apply_lock_action">Ecrã de Bloqueio</string>
+    <string name="apply_success">Aplicado</string>
+    <string name="apply_failure">Não foi possível aplicar a imagem de fundo</string>
     <string name="apply_close">Fechar</string>
     <string name="wallpaper_mono_black">Preto</string>
     <string name="wallpaper_mono_blue">Azul</string>
+    <string name="wallpaper_mono_brown">Castanho</string>
     <string name="wallpaper_mono_cyan">Ciano</string>
     <string name="wallpaper_mono_green">Verde</string>
+    <string name="wallpaper_mono_orange">Cor de laranja</string>
+    <string name="wallpaper_mono_pink">Cor de rosa</string>
+    <string name="wallpaper_mono_purple">Púrpura</string>
     <string name="wallpaper_mono_red">Vermelho</string>
     <string name="wallpaper_mono_teal">Verde azulado</string>
+    <string name="wallpaper_mono_white">Branco</string>
+    <string name="wallpaper_mono_yellow">Amarelo</string>
+    <string name="wallpaper_gradient_iron">Ferro</string>
+    <string name="wallpaper_gradient_leaf">Folha</string>
+    <string name="wallpaper_gradient_lemon">Limão</string>
     <string name="wallpaper_gradient_neon">Neon</string>
+    <string name="wallpaper_gradient_ocean">Oceano</string>
+    <string name="wallpaper_gradient_orange">Cor de laranja</string>
+    <string name="wallpaper_gradient_peach">Pêssego</string>
+    <string name="wallpaper_gradient_plum">Ameixa</string>
+    <string name="wallpaper_gradient_shine">Brilhante</string>
 </resources>
