@@ -17,7 +17,10 @@
 <resources>
     <string name="app_name">வால்பேப்பர்கள்</string>
     <string name="main_loading">ஏற்றுகிறது\u2026</string>
+    <string name="apply_home_action">முகப்புத் திரை</string>
+    <string name="apply_lock_action">பூட்டு திரை</string>
     <string name="apply_close">மூடு</string>
+    <string name="wallpaper_mono_black">கருப்பு</string>
     <string name="wallpaper_mono_blue">நீலம்</string>
     <string name="wallpaper_mono_cyan">சியான்</string>
     <string name="wallpaper_mono_green">பச்சை</string>

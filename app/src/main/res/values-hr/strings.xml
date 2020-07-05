@@ -17,7 +17,10 @@
 <resources>
     <string name="app_name">Pozadine</string>
     <string name="main_loading">Učitavanje\u2026</string>
+    <string name="apply_home_action">Početni zaslon</string>
+    <string name="apply_lock_action">Zaključani zaslon</string>
     <string name="apply_close">Zatvori</string>
+    <string name="wallpaper_mono_black">Crna</string>
     <string name="wallpaper_mono_blue">Plavo</string>
     <string name="wallpaper_mono_cyan">Svijetlo plava</string>
     <string name="wallpaper_mono_green">Zeleno</string>
