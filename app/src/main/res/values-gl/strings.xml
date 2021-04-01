@@ -17,9 +17,12 @@
 <resources>
     <string name="app_name">Fondos de pantalla</string>
     <string name="main_loading">Cargando\u2026</string>
+    <string name="apply_home_action">Pantalla de incio</string>
+    <string name="apply_lock_action">Pantalla de bloqueo</string>
     <string name="apply_close">Pechar</string>
     <string name="wallpaper_mono_blue">Azul</string>
     <string name="wallpaper_mono_cyan">Cíano</string>
     <string name="wallpaper_mono_green">Verde</string>
     <string name="wallpaper_mono_red">Vermello</string>
+    <string name="wallpaper_gradient_neon">Neon</string>
 </resources>

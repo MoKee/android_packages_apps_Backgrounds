@@ -22,4 +22,5 @@
     <string name="wallpaper_mono_cyan">Groen-blou</string>
     <string name="wallpaper_mono_green">Groen</string>
     <string name="wallpaper_mono_red">Rooi</string>
+    <string name="wallpaper_gradient_neon">Neon</string>
 </resources>

@@ -16,6 +16,8 @@
   -->
 <resources>
     <string name="app_name">Ekrano fonai</string>
+    <string name="apply_home_action">Pagrindinis ekranas</string>
+    <string name="apply_lock_action">Užrakto ekranas</string>
     <string name="apply_close">Uždaryti</string>
     <string name="wallpaper_mono_black">Juodas</string>
     <string name="wallpaper_mono_blue">Mėlyna</string>

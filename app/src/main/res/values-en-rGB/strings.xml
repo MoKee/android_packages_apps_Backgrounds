@@ -19,4 +19,6 @@
     <string name="apply_home_action">Home screen</string>
     <string name="apply_lock_action">Lock screen</string>
     <string name="apply_close">Close</string>
+    <string name="wallpaper_mono_cyan">Cyan</string>
+    <string name="wallpaper_gradient_neon">Neon</string>
 </resources>
