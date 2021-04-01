@@ -17,8 +17,11 @@
 <resources>
     <string name="app_name">Bakgrunner</string>
     <string name="main_loading">Laster inn\u2026</string>
+    <string name="apply_home_action">Startskjerm</string>
+    <string name="apply_lock_action">Låseskjerm</string>
     <string name="apply_close">Lukk</string>
     <string name="wallpaper_mono_blue">Blå</string>
     <string name="wallpaper_mono_green">Grønn</string>
     <string name="wallpaper_mono_red">Rød</string>
+    <string name="wallpaper_gradient_neon">Neon</string>
 </resources>

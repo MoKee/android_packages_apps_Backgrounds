@@ -24,4 +24,5 @@
     <string name="wallpaper_mono_blue">Blå</string>
     <string name="wallpaper_mono_green">Grøn</string>
     <string name="wallpaper_mono_red">Rød</string>
+    <string name="wallpaper_gradient_neon">Neon</string>
 </resources>

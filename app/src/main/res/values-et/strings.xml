@@ -18,11 +18,11 @@
     <string name="app_name">Taustapildid</string>
     <string name="main_loading">Laadimine\u2026</string>
     <string name="main_wallpaper_pick">Teie pildid</string>
-    <string name="apply_both_action">Avaekraan &amp; lukustuskuva</string>
+    <string name="apply_both_action">Avakuva &amp; lukustuskuva</string>
     <string name="apply_home_action">Avakuva</string>
     <string name="apply_lock_action">Lukustusekraan</string>
-    <string name="apply_success">Taustapilt on kohaldatud</string>
-    <string name="apply_failure">Seda taustapilti ei saa seadistada</string>
+    <string name="apply_success">Taustapilt on lisatud</string>
+    <string name="apply_failure">Seda taustapilti ei saa kasutada</string>
     <string name="apply_close">Sulgemine</string>
     <string name="wallpaper_mono_black">Must</string>
     <string name="wallpaper_mono_blue">Sinine</string>
@@ -42,7 +42,7 @@
     <string name="wallpaper_gradient_neon">Neoon</string>
     <string name="wallpaper_gradient_ocean">Ookean</string>
     <string name="wallpaper_gradient_orange">Oranž</string>
-    <string name="wallpaper_gradient_peach">Rand</string>
+    <string name="wallpaper_gradient_peach">Virsik</string>
     <string name="wallpaper_gradient_plum">Ploom</string>
     <string name="wallpaper_gradient_shine">Läige</string>
 </resources>
