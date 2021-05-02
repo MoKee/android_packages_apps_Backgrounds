@@ -17,13 +17,32 @@
 <resources>
     <string name="app_name">טפטים</string>
     <string name="main_loading">טוען\u2026</string>
+    <string name="main_wallpaper_pick">התמונות שלך</string>
+    <string name="apply_both_action">מסכי הבית והנעילה</string>
     <string name="apply_home_action">מסך הבית</string>
     <string name="apply_lock_action">מסך נעילה</string>
+    <string name="apply_success">הטפט הוחל</string>
+    <string name="apply_failure">אין אפשרות להחיל את הטפט</string>
     <string name="apply_close">סגור</string>
     <string name="wallpaper_mono_black">שחור</string>
     <string name="wallpaper_mono_blue">כחול</string>
+    <string name="wallpaper_mono_brown">חום</string>
     <string name="wallpaper_mono_cyan">טורקיז</string>
     <string name="wallpaper_mono_green">ירוק</string>
+    <string name="wallpaper_mono_orange">כתום</string>
+    <string name="wallpaper_mono_pink">ורוד</string>
+    <string name="wallpaper_mono_purple">סגול</string>
     <string name="wallpaper_mono_red">אדום</string>
+    <string name="wallpaper_mono_teal">טורקיז</string>
+    <string name="wallpaper_mono_white">לבן</string>
+    <string name="wallpaper_mono_yellow">צהוב</string>
+    <string name="wallpaper_gradient_iron">ברזל</string>
+    <string name="wallpaper_gradient_leaf">עלה</string>
+    <string name="wallpaper_gradient_lemon">לימון</string>
     <string name="wallpaper_gradient_neon">ניאון</string>
+    <string name="wallpaper_gradient_ocean">אוקיינוס</string>
+    <string name="wallpaper_gradient_orange">כתום</string>
+    <string name="wallpaper_gradient_peach">אפרסק</string>
+    <string name="wallpaper_gradient_plum">שזיף</string>
+    <string name="wallpaper_gradient_shine">בוהק</string>
 </resources>
